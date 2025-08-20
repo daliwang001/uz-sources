@@ -18,7 +18,7 @@
     "isLock": true
   },
   {
-    "api": "https://155api.com/api.php/provide/vod/",
+    "api": "https://155api.com/api.php/provide/vod",
     "name": "🔞155资源",
     "noHistory": true,
     "isLock": true
@@ -107,7 +107,8 @@
     "noHistory": true,
     "isLock": true
   },
-  }    "api": "https://api.sexnguon.com/api.php/provide/vod",
+  {
+    "api": "https://api.sexnguon.com/api.php/provide/vod",
     "name": "🔞AV-色南国",
     "noHistory": true,
     "isLock": true
@@ -141,5 +142,5 @@
     "name": "🔞AV-黄AV资源",
     "noHistory": true,
     "isLock": true
-  },
+  }
 ]
