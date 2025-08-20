@@ -1,0 +1,110 @@
+[
+    {
+        "name": "厂长视频",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/changZhang20240614.js",
+    },
+    {
+        "name": "在線之家",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/zxzj.js",
+    },
+    {
+        "name": "歐樂",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/olevod.js",
+    },
+    {
+        "name": "燒火電影",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/saohuo.js",
+    },
+    {
+        "name": "韓劇看看",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/hjkk.js",
+    },
+    {
+        "name": "素白白",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/subaibai.js",
+    },
+    {
+        "name": "1080ee",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/1080ee.js",
+    },
+    {
+        "name": "兩個BT",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/bttwo.js",
+    },
+    {
+        "name": "新視覺",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/6080.js",
+    },
+    {
+        "name": "天天影視",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/tiantian.js",
+    },
+    {
+        "name": "蛋蛋劇",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/dandanju.js",
+    },
+    {
+        "name": "耐看點播",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/nkvod.js",
+    },
+    {
+        "name": "金牌影院",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/jpyy.js",
+    },
+    {
+        "name": "4k-av",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/4kav.js",
+    },
+    {
+        "name": "瓜子web",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/gzys.js",
+    },
+    {
+        "name": "瓜子app",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/gzapp.js",
+    },
+    {
+        "name": "囧次元",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/jcy.js",
+    },
+    {
+        "name": "緣覺影視",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/yjys.js",
+    },
+    {
+        "name": "奇優影院",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/qiyou.js",
+    },
+    {
+        "name": "嗨劇網",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/haiju.js",
+    },
+    {
+        "name": "短劇天堂",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/duanjutt.js",
+    },
+    {
+        "name": "老白聽書",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/laobai.js",
+    },
+    {
+        "name": "麻豆社",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/madou.js",
+    },
+    {
+        "name": "MISSAV",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/missav.js",
+    },
+    {
+        "name": "Jable",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/jable.js",
+    },
+    {
+        "name": "玩偶姐姐",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/hkdoll.js",
+    },
+    {
+        "name": "Netflav",
+        "api": "https://ghfast.top/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/netflav.js",
+    }
+]
