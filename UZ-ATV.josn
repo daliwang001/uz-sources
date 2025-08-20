@@ -142,6 +142,13 @@
     "name": "🔞AV-黄AV资源",
     "noHistory": true,
     "isLock": true
-  }
+  },
+  {
+    "api": "https://gayapi.com/api.php/provide/vod/at/json",
+    "name": "🔞AV-快播资源",
+    "noHistory": true,
+    "isLock": true
+  },
 ]
+
 
